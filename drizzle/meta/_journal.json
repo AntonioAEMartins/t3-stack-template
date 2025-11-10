@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1762733807756,
+      "tag": "0000_sour_fat_cobra",
+      "breakpoints": true
+    }
+  ]
+}
